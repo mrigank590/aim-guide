@@ -2,6 +2,8 @@
 
 A comprehensive, community-researched aiming guide for **CS2, Valorant, and Apex Legends** — covering free and paid resources, settings, hardware, mental game, and game-specific tips.
 
+**[→ View the Live Guide](https://mrigank590.github.io/aim-guide)**
+
 ![MIT License](https://img.shields.io/badge/license-MIT-00E5A0?style=flat-square)
 ![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Last Updated](https://img.shields.io/badge/updated-June%202026-7A8694?style=flat-square)
