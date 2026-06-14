@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/aim-guide/static/js/main.5f1a690a.js",
+    "index.html": "/aim-guide/index.html",
+    "main.5f1a690a.js.map": "/aim-guide/static/js/main.5f1a690a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5f1a690a.js"
+  ]
+}
